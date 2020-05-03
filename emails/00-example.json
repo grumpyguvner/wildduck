@@ -1,16 +1,16 @@
 {
-    "disabled": true,
+    "disabled": false,
 
     "flag": true,
 
     "from": {
-        "name": "WildDuck Support",
-        "address": "info@[DOMAIN]"
+        "name": "BasketIcons Support",
+        "address": "support@basketicons.com"
     },
     "to": {
         "name": "[NAME]",
         "address": "[EMAIL]"
     },
 
-    "subject": "[FNAME], welcome to our awesome service!"
+    "subject": "[FNAME], welcome to our awesome mail service!"
 }

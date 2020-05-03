@@ -1,9 +1,11 @@
-[FNAME], welcome to WildDuck email service!
+[FNAME], welcome to our awesome email service!
 
-If you are seeing this message then it means you have reached the inbox of your new email address [EMAIL]. Be aware though that the service is in a constant change, so this address might disappear during the next database schema update. Don't start using it as your main email address!
+If you are seeing this message then it means you have reached the inbox of your new email address [EMAIL].
 
-This message was generated and inserted to this mailbox from the /emails folder using the default template.
+Our new service puts you in control of your mailbox, features include AutoReplys, Filters and changing your password, check out the links at the top of the page.
 
-Your friends from the WildDuck team
+You can also get your email on your desktop or mobile devices using the settings under the Help section.
 
-– Check out WildDuck on Github: https://github.com/nodemailer/wildduck
+From the Basket Icons team
+
+– Check out our new website on https://basketicons.com for more awesome services.
